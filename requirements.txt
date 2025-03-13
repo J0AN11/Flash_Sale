@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+smtplib
+email
+python-dotenv
+telebot
